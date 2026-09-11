@@ -1,0 +1,11 @@
+# Dataset - too large to commit, and subject to Kaggle's terms
+Data/
+
+# Local model export folder (regenerate anytime by re-running the last cell)
+artifacts/
+
+# Notebook / Python housekeeping
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
